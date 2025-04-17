@@ -17,6 +17,8 @@ standard: global
 
 This is a Tuya electric mouse trap. Runs on 4 1.5v AA batteries. 
 
+Be Aware that newer Models run on the BK7321N chip which ist not compatible with Tasmota but Openbeken!
+
 Identified with MCU Product ID: `{"p":"ymf4oruxqx0xlogp","v":"1.0.1","m":0}`. 
 
 ## Flashing
